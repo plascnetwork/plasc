@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img width=20% src="https://github.com/tronprotocol/wiki/blob/master/images/java-tron.jpg?raw=true">
+  <img width=100% src="[Plasc](https://user-images.githubusercontent.com/107360937/178320187-76096189-4d80-4f06-97a1-78b3ffde8c33.png)">
   <br>
-  java-tron
+  PLASC Network
   <br>
 </h1>
 
